@@ -1,0 +1,6 @@
+torch < 4.0.0
+Transformers
+datasets
+torchaudio
+librosa
+python-multipart
